@@ -1,17 +1,14 @@
 [
   {
-    "name": "Jiu-Jitsu",
-    "description": "A fighting style originating from judo, it is the style of fighting and efficiently moving on the ground.",
-    "needed_funding": 200.00
+    "name": "JavaScript",
+    "description": "The best dynamic program in the world!"
   },
   {
-    "name": "Wrestling",
-    "description": "Although many do not consider this a martial art, it is considered the most important of the three, as it allows one to dectate if the fight takes place standing or on the ground",
-    "needed_funding": 1000.00
+    "name": "TypeScript",
+    "description": "The one that will eventually takedown javaScript, you just wait and see!!"
   },
   {
-    "name": "Muay-Thai",
-    "description": "A striking martial art orignating in Thailand, used by most mma practitioners as a primary stand-up martial arts style.",
-    "needed_funding": 200.00
+    "name": "C++",
+    "description": "This program is not for the weak like javaScript and typeScript, if you can do C++ you can do anything."
   }
 ]
